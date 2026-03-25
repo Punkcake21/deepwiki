@@ -118,7 +118,7 @@ use `help` to display the available commands:
 
 `ssh` : Connect to internal hosts.
 `exit` : Return to the main target 
-![[Pasted image 20260325212912.png]]
+![Selection](assets/img14.png)
 
 `harvest` : Extract credentials from memory.
 ![Selection](assets/img10.png)
@@ -138,5 +138,4 @@ When you are done, use `disconnect` to terminate the session safely.
 
 ---
 
-!!! warning "PLEASE NOTE" 
-Every action you perform increases the **TRACE** level. If the trace reaches **100%**, the system will initiate a hard lockout and alert local security. **Always disconnect before you are detected.**
+!!! warning "PLEASE NOTE" Every action you perform increases the **TRACE** level. If the trace reaches **100%**, the system will initiate a hard lockout and alert local security. **Always disconnect before you are detected.**
